@@ -1,0 +1,9 @@
+public enum Test{
+  //rrrrrrr
+  
+  TEST,
+  IDLE,
+  OFF;
+
+
+}
