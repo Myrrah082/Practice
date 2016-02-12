@@ -3,7 +3,7 @@ public enum Test{
   
   TEST,
   IDLE,
-  OFF;
+  ON;
 
 
 }
