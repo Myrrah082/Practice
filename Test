@@ -8,6 +8,7 @@ public enum Test{
   IDLE,
   ON,
 <<<<<<< HEAD
+<<<<<<< HEAD
 
   LAL;
   JAN,
@@ -20,4 +21,8 @@ public enum Test{
   LAL,
   JAJAJ;
 >>>>>>> 7372779... kakak
+=======
+  LAL,
+  JAJAJ;
+>>>>>>> 65e5ad4f1dff3d84673a7eefc720e1bfa7822171
 }
