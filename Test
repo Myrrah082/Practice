@@ -5,6 +5,6 @@ public enum Test{
   TEST,
   IDLE,
   ON,
-  LAL;
-
+  LAL,
+  JAJAJ;
 }
