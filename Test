@@ -1,8 +1,8 @@
 public enum Test{
   //rrrrrrray
   
-  TEST,
-  IDLE,
+  JAN,
+  IDLES,
   ON;
 
 
