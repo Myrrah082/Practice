@@ -2,11 +2,15 @@ public enum Test{
 
   //rrrrrrray
 
-  
+
 //lalalal
   TEST,
   IDLE,
   ON,
   LAL;
+  JAN,
+  IDLES,
+  ON;
+
 
 }
