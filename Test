@@ -1,9 +1,7 @@
 public enum Test{
-<<<<<<< HEAD
-  //rrrrrrrawr
-=======
+
   //rrrrrrray
->>>>>>> branch1
+
   
 //lalalal
   TEST,
