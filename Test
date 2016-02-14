@@ -5,9 +5,10 @@ public enum Test{
   //rrrrrrray
 >>>>>>> branch1
   
+//lalalal
   TEST,
   IDLE,
-  ON;
-
+  ON,
+  LAL;
 
 }
