@@ -7,10 +7,17 @@ public enum Test{
   TEST,
   IDLE,
   ON,
+<<<<<<< HEAD
+
   LAL;
   JAN,
   IDLES,
   ON;
+  LAL,
+  JAJAJ;
 
-
+=======
+  LAL,
+  JAJAJ;
+>>>>>>> 7372779... kakak
 }
